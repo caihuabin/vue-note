@@ -1,22 +1,39 @@
 # Vue-Note
-Vue-Note is a Note App written in Vue.
+
+> A Note App and a Vue.js project.
 
 If you have a problem or have some good advice? Welcome to star and submit PR or submit a issue.❤
+
 ## Online DEMO
 
 ###[http://icyse.github.io/vue-note](http://icyse.github.io/vue-note)
 
-## Installation
+## Build Setup
 
-### 1.You can directly copy the project to your web server, such as apache, nginx, nodejs server and so on.
+``` bash
+# install dependencies
+npm install
 
-### 2.The project supports nodejs server. If you like nodejs better, you can run this:
+# serve with hot reload at localhost:8080
+npm run dev
 
-    cd /path/to/project
+# build for production with minification
+npm run build
 
-    npm install
+# build for production and view the bundle analyzer report
+npm run build --report
 
-    npm start
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## License
 
