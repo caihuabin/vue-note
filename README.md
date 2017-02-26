@@ -6,7 +6,7 @@ If you have a problem or have some good advice? Welcome to star and submit PR or
 
 ## Online DEMO
 
-###[http://icyse.github.io/vue-note](http://icyse.github.io/vue-note)
+###[http://icyse.github.io](http://icyse.github.io)
 
 ## Build Setup
 
